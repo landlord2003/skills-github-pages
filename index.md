@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Git_Page: Welcome to my blog!
 ---
